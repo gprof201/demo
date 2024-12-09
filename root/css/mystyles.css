@@ -1,0 +1,22 @@
+.site-heading-lower{
+    font-family: 'Comic Sans MS', papyrus;
+}
+.mb-3{
+    font-family: 'Comic Sans MS';
+}
+body{
+    font-family: 'Comic Sans MS';
+}
+a{
+    font-family: 'Comic Sans MS';
+}
+#mainNav{
+    background-color: navy;
+}
+.rounded{
+    padding: 5px;
+    border: 4px black solid;
+}
+.cta{
+    border: 5px solid wheat;
+}
